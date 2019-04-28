@@ -1,0 +1,310 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.01.2012 19:50:50
+
+newmtl Material__496
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_face_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_face_bm.png
+
+newmtl Material__498
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_face_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_face_bm.png
+
+newmtl Material__476
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__481
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__492
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__484
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__499
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__495
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__494
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__482
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__493
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__478
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__479
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__480
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__485
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__486
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__488
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__487
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__490
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__491
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__477
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+
+newmtl Material__489
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
+	map_Kd C:\Users\Owner\Desktop\ThorAlt\thor_tex01_bm.png
